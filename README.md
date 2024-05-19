@@ -1,8 +1,8 @@
 # Full Cycle 
-# Desafio - Use case para Product
+# Desafio - Validando Product
 
-Da mesma forma que fizemos a criação dos use cases realizando as operações: "create", "find", "list", "update" para "Customer", faça:
+Agora que aprendemos a criar o processo de validação, bem como minimizar o acoplamento em nosso domínio, você deverá realizar o processo de validação na entidade Product seguindo o mesmo processo.
 
-Crie as operações mencionadas acima para nossa entidade: "Product".
-Implemente os testes de unidade e integração nos quatro use cases.
+OBS: Não deixe de verificar se todos os testes ainda estão passando.
+
 * A linguagem de programação para este desafio é TypeScript
